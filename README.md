@@ -31,11 +31,11 @@ Book PDF - [Click Here](https://www.scribd.com/document/390047941/Edexcel-Furthe
 Answers - [Click Here](https://www.physicsandmathstutor.com/maths-revision/solutionbanks/edexcel-core-pure-maths-2/)
 
 ## Further Decision Yr1 ##
-Book PDF - [Pls work]({% link pdfs/FMDecision1.pdf %})
+Book PDF - [Click Here](https://github.com/WiseNat/Maths-Books/blob/master/pdfs/FMDecision1.pdf)
 
 Answers - [Click Here](https://www.physicsandmathstutor.com/maths-revision/solutionbanks/edexcel-further-statistics-1/)
 
 ## Further Decision Yr2 ##
-Book PDF - N/A
+Book PDF - [Click Here](https://github.com/WiseNat/Maths-Books/blob/master/pdfs/FMDecision1.pdf)
 
 Answers - [Click Here](https://www.physicsandmathstutor.com/maths-revision/solutionbanks/edexcel-further-statistics-2/)
