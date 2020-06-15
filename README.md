@@ -31,7 +31,7 @@ Book PDF - [Click Here](https://www.scribd.com/document/390047941/Edexcel-Furthe
 Answers - [Click Here](https://www.physicsandmathstutor.com/maths-revision/solutionbanks/edexcel-core-pure-maths-2/)
 
 ## Further Decision Yr1 ##
-Book PDF - N/A
+Book PDF - [Test]({{ site.baseurl }}/pdf/FMDecision1.pdf)
 
 Answers - [Click Here](https://www.physicsandmathstutor.com/maths-revision/solutionbanks/edexcel-further-statistics-1/)
 
