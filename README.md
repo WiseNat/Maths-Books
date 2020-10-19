@@ -33,9 +33,9 @@
 ## Further Decision Yr1 ##
 [Book PDF](https://www.scribd.com/document/465737617/FmDecision1?secret_password=3p9mzZHFkddVA9FcQjhn#fullscreen&from_embed)
 
-[Answers](https://www.physicsandmathstutor.com/maths-revision/solutionbanks/edexcel-further-statistics-1/)
+[Answers](https://www.physicsandmathstutor.com/maths-revision/solutionbanks/edexcel-decision-maths-1/)
 
 ## Further Decision Yr2 ##
 [Book PDF](https://www.scribd.com/document/465737584/FmDecision2?secret_password=7uv3QvvU7j7yAtAe1LRI#fullscreen&from_embed)
 
-[Answers](https://www.physicsandmathstutor.com/maths-revision/solutionbanks/edexcel-further-statistics-2/)
+[Answers](https://www.physicsandmathstutor.com/maths-revision/solutionbanks/edexcel-decision-maths-2/)
